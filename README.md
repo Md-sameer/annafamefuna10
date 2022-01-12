@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @annafamefuna10
 - 👀 I’m interested in devops engineer
-- 🌱 I’m currently learning Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. 
+- 🌱 I’m currently learning Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, DNS, Elastic, Network, Virtualization. 
 - 💞️ I’m looking to collaborate on any devops project
 - 📫 How to reach me annafamefuna05@gmail.com
 
